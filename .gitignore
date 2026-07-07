@@ -1,0 +1,57 @@
+# ==================================================
+# Resume AI Pipeline
+# Git Ignore
+# ==================================================
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---------- Virtual Environments ----------
+.venv/
+venv/
+env/
+
+# ---------- Environment Variables ----------
+.env
+
+# ---------- Logs ----------
+logs/
+*.log
+
+# ---------- Generated Output ----------
+output/
+
+# ---------- Python Testing ----------
+.pytest_cache/
+
+# ---------- Coverage ----------
+.coverage
+htmlcov/
+
+# ---------- VS Code ----------
+.vscode/
+
+# ---------- Operating Systems ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Temporary ----------
+*.tmp
+*.bak
+
+# ---------- Build ----------
+build/
+dist/
+*.egg-info/
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+
+# ---------- PyMuPDF ----------
+*.pdf.json
+
+# ---------- Misc ----------
+.cache/

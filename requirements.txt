@@ -1,0 +1,43 @@
+# ==========================================================
+# Resume AI Pipeline
+# Requirements
+# Python 3.12+
+# ==========================================================
+
+# ---------- Google Gemini ----------
+google-genai>=1.28.0
+
+# ---------- LLM ----------
+openai>=1.95.0
+
+# ---------- Environment ----------
+python-dotenv>=1.1.1
+
+# ---------- JSON Validation ----------
+jsonschema>=4.25.0
+
+# ---------- PDF ----------
+PyMuPDF>=1.26.3
+
+# ---------- DOCX ----------
+python-docx>=1.2.0
+
+# ---------- Images / OCR ----------
+Pillow>=11.3.0
+pytesseract>=0.3.13
+
+# ---------- Logging ----------
+colorlog>=6.9.0
+
+# ---------- Utilities ----------
+tqdm>=4.67.1
+
+# ---------- Data ----------
+pandas>=2.3.1
+
+# ---------- Testing ----------
+pytest>=8.4.1
+
+# ---------- Formatting ----------
+black>=25.1.0
+isort>=6.0.1

@@ -1,0 +1,120 @@
+Senior Data Engineer
+
+Company: Globant
+
+Location: Bogotá, Colombia (Hybrid)
+
+Employment Type: Full-Time
+
+About the Role
+
+We are looking for an experienced Senior Data Engineer to join our Data & AI team. The ideal candidate will design, develop and optimize modern cloud-based data platforms capable of processing large volumes of structured and unstructured data.
+
+Responsibilities
+
+• Design scalable ETL and ELT pipelines.
+• Develop batch and streaming data solutions.
+• Build data models for analytics and reporting.
+• Optimize Spark workloads.
+• Design data lake and data warehouse architectures.
+• Collaborate with Data Scientists, BI Analysts and Software Engineers.
+• Participate in code reviews.
+• Ensure data quality through automated validation.
+• Implement CI/CD for data pipelines.
+• Mentor junior engineers.
+
+Required Skills
+
+Python
+
+SQL
+
+PySpark
+
+Apache Spark
+
+Apache Airflow
+
+Git
+
+Docker
+
+Linux
+
+REST APIs
+
+Data Modeling
+
+ETL
+
+ELT
+
+Required Cloud Technologies
+
+AWS
+
+Amazon S3
+
+AWS Glue
+
+Amazon Redshift
+
+AWS Lambda
+
+Nice to Have
+
+Databricks
+
+Snowflake
+
+dbt
+
+Terraform
+
+Kubernetes
+
+Machine Learning
+
+Soft Skills
+
+Leadership
+
+Problem Solving
+
+Critical Thinking
+
+Communication
+
+Teamwork
+
+Education
+
+Bachelor's degree in Computer Science, Software Engineering, Information Systems or related field.
+
+Languages
+
+English B2 or above.
+
+Preferred Certifications
+
+AWS Certified Data Engineer
+
+AWS Solutions Architect Associate
+
+Industry
+
+Information Technology
+
+Benefits
+
+Flexible schedule
+
+Private health insurance
+
+Annual bonus
+
+Remote work policy
+
+Career development plan
+
+Training budget
